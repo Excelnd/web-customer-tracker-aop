@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 
 @Aspect
 @Component
-public class CRMLoggingAspect {
+public class CRMLoggingAspect { 
 
 	
 	// setup logger
